@@ -1,4 +1,3 @@
-[2:29 PM] Thomas Johnson
 terraform {
 
   required_version = ">= 0.12"
